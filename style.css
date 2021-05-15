@@ -1,0 +1,244 @@
+body 
+{ background-image:url("D2.JPG"); background-size: cover;
+background-position: center;  }
+header 
+{
+
+	position: absolute;
+
+	top:12px;
+
+	right:30px;
+
+	
+	}
+
+
+header a:link, a:visited, a:active
+{
+
+	color:white;
+
+	font-family: arial, sans-serif;
+
+	font-size:15px;
+
+	text-decoration:none;
+	margin-right:5px;
+
+	margin-left:5px;
+
+	position:relative;
+
+	top:-10px;
+
+}
+
+
+header a:hover
+{
+
+	text-decoration:underline;
+
+}
+
+#products
+ {
+
+	margin-right:8px;
+	
+	margin-left:8px;
+
+	color:white;
+}
+#dp
+{
+
+	width:35px;
+	height:35px;
+	border-radius:50%;
+
+}
+
+
+div 
+{
+
+	display:block;
+
+	margin: auto;
+
+	text-align:center;
+
+	padding-top: 13%;
+}
+
+
+div img 
+{
+
+	width: 27%;
+
+	height: 95px;
+
+	margin:10px;
+
+}
+.search 
+{
+
+	width: 560px;
+
+	height: 10px;
+
+	border: 1px solid lightgrey;
+
+	font: 18px arial, sans-serif;
+
+	padding:17px;
+	border-radius:15px;
+	padding-left:4%;
+}
+
+
+.search:focus
+{
+	outline:none;
+}
+.button 
+{
+
+	border: 1px solid #d3d3d3;
+
+	background: #f3f3f3;
+
+	color:grey;
+
+	margin-left:4px;
+
+	margin-right:4px;
+
+	margin-top: 15px;
+
+	font-family:arial, sans-serif;
+
+	font-size: 13px;
+
+	font-weight: bold;
+
+	padding: 10px;
+
+	border-radius:5px;
+
+}
+.button:focus
+{
+	outline:none;
+}
+.button:hover
+ {
+
+	color:black;
+
+	border: 1px solid grey;
+
+}
+footer
+{
+
+	height:3.5%;
+	width:100%;
+	position: absolute;
+
+	bottom:0px;
+
+	left:0px;
+
+	right:0px;
+
+	background:#f3f3f3;
+
+	padding-top:22px;
+
+	border-top: 1px solid #e9e9e9;
+
+}
+footer a:link, a:visited, a:active
+{
+
+	color: #696969;
+
+	font-family: arial, sans-serif;
+
+	font-size:12px;
+
+	text-decoration:none;
+
+}
+
+footer a:hover
+{
+
+	text-decoration:underline;
+
+}
+.leftlinks
+{
+
+	position: relative;
+
+	bottom:12px;
+
+	left:18px;
+
+	padding-right:15px;
+
+	padding-left:15px;
+
+}
+
+
+.rightlinks 
+{
+
+	position: relative;
+
+	bottom:9px;
+
+	float:right;
+
+	right:18px;
+
+	padding-right:15px;
+
+	padding-left:15px;
+
+}
+
+.cred
+{
+	position:absolute;
+	bottom:10%;
+	color:white;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+.s1
+{
+	
+	position:absolute;
+	left:31.2%; top:23.8%;
+}	
+	
+	
+	
